@@ -20,3 +20,4 @@ Following is the list of services we use
 - redmine
 - jenkins
 - 1password
+- dependabot
