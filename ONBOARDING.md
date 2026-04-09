@@ -4,7 +4,7 @@
 
 ## Prerequisites
 
- To be able to complete this guide, you will need access to Slack and to github, if you don't let us know.
+ To be able to complete this guide, you will need access to Discord and to github, if you don't let us know.
 
 ## Getting Started
 #### Introduction
