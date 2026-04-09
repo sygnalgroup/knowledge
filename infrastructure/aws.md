@@ -9,3 +9,5 @@ Resources in use:
 - RDS
 - Elasticache
 - Route53
+- Loader Balancer
+- Certificate Manager
